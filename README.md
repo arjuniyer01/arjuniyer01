@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arjuniyer01
-- 👀 I’m interested in Back-end development and data driven learning using TensorFlow.
-- 🌱 I’m currently learning Front-End development.
-- 💞️ I’m looking to collaborate on anything data related!
+- 👀 I’m interested in Big Data Analytics.
+- 🌱 I’m currently learning Back-End development, so that combined with my Front-End experience I can achieve understanding of Full-stack development.
+- 💞️ I’m looking to collaborate on any project to learn or contribute!
 - 📫 How to reach me: iyer9@wisc.edu
 
 <!---
